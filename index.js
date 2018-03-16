@@ -28,5 +28,6 @@ var newKittens = [...kittens]
 }
 
 function removeLastKitten(){
-  kittens.
+  kittens.pop('Garfield')
+  return kittens
 }
