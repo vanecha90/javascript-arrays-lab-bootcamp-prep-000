@@ -26,3 +26,7 @@ var newKittens = [...kittens]
  newKittens.push(name)
  return newKitten
 }
+
+function removeLastKitten(){
+  kittens.
+}
