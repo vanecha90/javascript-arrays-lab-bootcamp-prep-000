@@ -1,2 +1,5 @@
 const app = "I don't do much."
- function kittens = ['Milo', 'Otis', 'Garfield']
+ function destructivelyAppendKitten(name){
+    kittens = ['Milo', 'Otis', 'Garfield']
+ }
+ 
